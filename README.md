@@ -1,6 +1,5 @@
 #  Gönül Ver Platformu
-Genç Gönüllü Sosyal Girişimcilik Dijital Ekran Modeli 
-![logo](https://user-images.githubusercontent.com/66682123/120923532-b90f7b80-c6d7-11eb-834a-3f3ba69da2aa.jpeg) </br>
+![logo](https://user-images.githubusercontent.com/66682123/120923532-b90f7b80-c6d7-11eb-834a-3f3ba69da2aa.jpeg)
 
  ## Proje Adı: 
 Genç Gönüllü Sosyal Girişimcilik Dijital Ekran Modeli – Gönülver
