@@ -4,6 +4,8 @@
  ## Proje Adı: 
 Genç Gönüllü Sosyal Girişimcilik Dijital Ekran Modeli
 
+<a href="http://gonulver.c1.biz/" rel="nofollow">Gönülver Website</a>
+
 ## Projenin Özeti: 
 
 Teknoloji çağının getirmiş olduğu bir dezavantaj olan “bireycilik” gençleri sosyal hayattan kopararak, yalnızca “kendileri için” yaşadıkları bir dünyaya hapsetmiştir. Bu durum kadim kültürümüzün kıymetli değerleri olan diğerkamlık ve gönüllülük mefhumlarını ikinci plana atmış ve hatta bunların gündelik hayattan çıkarılması tehlikesi altına girmiştir. Proje amacımız sivil toplum kuruluşları, çeşitli yardım kulüpleri/projeleri ve yaş aralığı fark etmeksizin bu alandaki gönüllü bireyleri farklı sosyal sorumluluk projeleri ve etkinlikler aracılığıyla yardıma ihtiyacı olan insanları daha önce hiçbir projenin yapmadığı şekilde bir araya getirmek ve toplum genelinde sosyo-kültürel sorunlara karşı duyarı ve gönüllülük bilincini arttırmaktır.
